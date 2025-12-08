@@ -36,3 +36,4 @@ while (vzdalenost>eps && iterace<maxiter)
 end
 end
 
+% [koren, pocet]=mybisect(f, 2, 3, 4, 100)
