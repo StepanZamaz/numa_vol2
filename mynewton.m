@@ -66,6 +66,6 @@ x = x1;
 %disp(f(x0)*ddf(x0));
 
 %% volani fce
-format long
-[koren, pocet]=mynewton(f, df, x0, 5, 100)
-format short
+%format long
+%[koren, pocet]=mynewton(f, df, x0, 5, 100)
+%format short
